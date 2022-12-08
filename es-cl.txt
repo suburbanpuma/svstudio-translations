@@ -1,4 +1,4 @@
-language: Español (Latinoamérica)
+language: Español (Chile)
 
 "File" = "Archivos"
   "New" = "Nuevo"
