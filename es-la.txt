@@ -484,13 +484,13 @@ language: Español (Latinoamérica)
   "Pattern Fill" = "Llenar como Patrón"
   "Separate into Characters" = "Separar por Letras"
 
-"Auto Recovery" = "自动恢复"
-  "A crashed session is found. View recovered files?" = "发现了非正常退出的使用记录，是否查看恢复的文件？"
+"Auto Recovery" = "Autorrecuperación"
+  "A crashed session is found. View recovered files?" = "Se encontró una sesión interrumpida. ¿Quieres ver los archivos recuperados?"
 
-"Save Failed" = "保存失败"
-  "Projects cannot be saved to the recovery folder. Please select another location." = "无法在恢复文件夹保存项目。请选择其他位置。"
+"Save Failed" = "Error al Guardar"
+  "Projects cannot be saved to the recovery folder. Please select another location." = "No se ha podido guardar. Por favor, escoge un nuevo punto de recuperación."
 
-"No audio device is available. Please check the audio settings." = "没有可用的音频设备。请检查音频设置。" 
+"No audio device is available. Please check the audio settings." = "No hay un dispositivo de reproducción disponible. Por favor, revisa los ajustes." 
 
 "Quit" = "退出"
   "Discard unsaved changes?" = "是否放弃未保存的改动？"
