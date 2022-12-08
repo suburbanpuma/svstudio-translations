@@ -479,10 +479,10 @@ language: Español (Latinoamérica)
   "Create New Tracks" = "Crear Nuevas Pistas"
   "Reopen as New Project" = "Abrir como Proyecto Nuevo"
 
-"Insert Lyrics" = "插入歌词"
-  "Lyrics (separated by spaces)" = "歌词 (按空格划分)"
-  "Pattern Fill" = "规律填充"
-  "Separate into Characters" = "按字符分割"
+"Insert Lyrics" = "Insertar Letras"
+  "Lyrics (separated by spaces)" = "Letras (separadas por espacios)"
+  "Pattern Fill" = "Llenar como Patrón"
+  "Separate into Characters" = "Separar por Letras"
 
 "Auto Recovery" = "自动恢复"
   "A crashed session is found. View recovered files?" = "发现了非正常退出的使用记录，是否查看恢复的文件？"
